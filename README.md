@@ -1,7 +1,5 @@
 ### Hi there 👋 🧐
 
-There is nothing special happening for now, so just look at a random picture of a cat.
-
 ![cat](http://cataas.com/cat/gif)
 
 #### 📫 How to reach me: 
