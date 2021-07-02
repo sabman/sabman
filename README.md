@@ -1,4 +1,15 @@
-## Hi there 👋 🧐
+### Hi there 👋 🧐
+
+There is nothing special happening for now, so just look at a random picture of a cat.
+
+![cat](http://cataas.com/cat/gif)
+
+#### 📫 How to reach me: 
+ - https://twitter.com/sabman 
+ - https://burq.fun
+
+<!--
+
 
 #### 🔭 I’m currently
 - CTO [@geografia-au](https://github.com/geografia-au)
@@ -21,3 +32,4 @@
  - https://twitter.com/sabman 
  - https://burq.fun
 
+-->
