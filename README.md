@@ -6,6 +6,11 @@
  - https://twitter.com/sabman 
  - https://burq.fun
 
+
+### Learnings
+
+- [git](https://gist.github.com/sabman/8e140902ee057e286f504ea39b0487a7)
+
 <!--
 
 
