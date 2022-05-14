@@ -10,6 +10,10 @@
 ### Learnings
 
 - [git](https://gist.github.com/sabman/8e140902ee057e286f504ea39b0487a7)
+- Engineering Management
+- Entrepreneurship
+- Serving on (iNGO) Boards
+- Mental Health
 
 <!--
 
