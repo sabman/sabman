@@ -10,6 +10,7 @@
 ### Learnings
 
 - [git](https://gist.github.com/sabman/8e140902ee057e286f504ea39b0487a7)
+- [golang](https://gist.github.com/sabman/dc989ddf742a7d0419dd4ae6d3a7d14e)
 - Engineering Management
 - Entrepreneurship
 - Serving on (iNGO) Boards
