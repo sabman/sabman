@@ -12,7 +12,7 @@
 - [git](https://gist.github.com/sabman/8e140902ee057e286f504ea39b0487a7)
 - [golang](https://gist.github.com/sabman/dc989ddf742a7d0419dd4ae6d3a7d14e)
 - [Engineering Management](https://gist.github.com/sabman/e8d336beba5f2cd20b9f82684a31deab)
-- Entrepreneurship
+- [Entrepreneurship](https://gist.github.com/sabman/23bfea8b38165143640e534f8375fae7)
 - Serving on (iNGO) Boards
 - [Mental Health](https://gist.github.com/sabman/30c6de96fed9afa739905988885f4155)
 - [K8s](https://gist.github.com/sabman/bb293dc91efdbd65f45a994e940baa15)
