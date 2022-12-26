@@ -16,6 +16,7 @@
 - [Serving on (iNGO) Boards](https://gist.github.com/sabman/2d84f30404a70cb84456d05034dd7146)
 - [Mental Health](https://gist.github.com/sabman/30c6de96fed9afa739905988885f4155)
 - [K8s](https://gist.github.com/sabman/bb293dc91efdbd65f45a994e940baa15)
+- [CS Intern Guide](https://gist.github.com/sabman/902e1434fd3334997d29840bc7114834)
 
 <!--
 
